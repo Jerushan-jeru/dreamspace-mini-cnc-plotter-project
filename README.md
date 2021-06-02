@@ -1,7 +1,7 @@
 # CNC LASER PLOTTER MACHINE 
 ## ABOUT THIS PROJECT
 
-####How to make Arduino mini CNC plotter machine
+###How to make Arduino mini CNC plotter machine
 
 
 Hello friends, in this post we will see how to make a mini CNC plotter machine using an old scrap DVD drive, Arduino and CNC v3 shield.
@@ -25,3 +25,10 @@ So before moving further let me brief you about what is the CNC plotter machine 
 7. some wires for motor connection
 8. Nut and bolts.
 
+### Software list 
+1. Arduino IDE
+2. Universal G-code controller
+3. Inscape version
+
+### Step 1.
+To make Arduino based mini CNC plotter machine obviously we need two scrap DVD drive I purchased this drive from my local computer.we’ll going to use its stepper motor along with sliding mechanism here note that not all DVD drives have stepper motors in it. If the motor has 4 wires it means it is a stepper motor.
