@@ -43,7 +43,7 @@ Then I bring some DuPont 4 wire of around 40 cm and cut it into 2 pieces one for
 Then I strip the wire carefully without damaging the copper strain of wire.and solder it to the expose terminals of stepper motor
 
 <p align="center">
-<img src="./Images/laser-cnc-plotter-4.JPG" alt="GESTURES" width=70% height=50%/>
+<img src="./Images/laser-cnc-plotter-8.jpg" alt="GESTURES" width=70% height=50%/>
 </p>
 
 ### Step 3.
@@ -51,7 +51,12 @@ Then I strip the wire carefully without damaging the copper strain of wire.and s
 Here I have paint the the empty case of DVD drive using gray shade spray paint, this step is not compulsory its ok if you don’t want to paint them
 
 <p align="center">
-<img src="./Images/laser-cnc-plotter-1.JPG" alt="GESTURES" width=70% height=50%/>
+<img src="./Images/laser-cnc-plotter -7.jpeg" alt="GESTURES" width=20% height=20%/>
+<img src="./Images/laser-cnc-plotter-5 .jpeg" alt="GESTURES" width=20% height=20%/>
+<img src="./Images/laser-cnc-plotter-9.jpeg" alt="GESTURES" width=20% height=20%/>
+<img src="./Images/.jpeg" alt="GESTURES" width=20% height=20%/>
+<img src="./Images/laser-cnc-plotter-9.jpeg" alt="GESTURES" width=20% height=20%/>
+<img src="./Images/laser-cnc-plotter-9.jpeg" alt="GESTURES" width=20% height=20%/>
 </p>
 
 After drilling the hole in the DVD drive case I fixed the four M4 X 60 nut bolts at the four corners of the stepper motor mechanism.Now I placed the stepper motor mechanism in its place and secured all four bolts with M4 nuts.
