@@ -31,6 +31,7 @@ To make Arduino based mini CNC plotter machine obviously we need two scrap DVD d
 
 ### Step 2.
 
+![Design by ](./images/laser-cnc-plotter-2.JPG "Mini CNC Plotter")
 
 Then I bring some DuPont 4 wire of around 40 cm and cut it into 2 pieces one for each stepper motor connection.
 Then I strip the wire carefully without damaging the copper strain of wire.and solder it to the expose terminals of stepper motor
