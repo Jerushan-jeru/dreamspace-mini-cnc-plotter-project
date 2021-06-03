@@ -1,5 +1,5 @@
 
-# cnc-laser-plotter-machine
+# CNC Laser Plotter Machine
 
 ## How to Smake Arduino mini CNC plotter machine
 
@@ -54,9 +54,11 @@ Here I have paint the the empty case of DVD drive using gray shade spray paint, 
 <img src="./Images/laser-cnc-plotter -7.jpeg" alt="GESTURES" width=20% height=20%/>
 <img src="./Images/laser-cnc-plotter-5 .jpeg" alt="GESTURES" width=20% height=20%/>
 <img src="./Images/laser-cnc-plotter-9.jpeg" alt="GESTURES" width=20% height=20%/>
-<img src="./Images/.jpeg" alt="GESTURES" width=20% height=20%/>
-<img src="./Images/laser-cnc-plotter-9.jpeg" alt="GESTURES" width=20% height=20%/>
-<img src="./Images/laser-cnc-plotter-9.jpeg" alt="GESTURES" width=20% height=20%/>
+</p>
+
+<p align="center">  
+<img src="./Images/laser-cnc-plotter-5 .jpeg" alt="GESTURES" width=30% height=30%/>
+<img src="./Images/laser-cnc-plotter-14.jpg" alt="GESTURES" width=30% height=30%/>
 </p>
 
 After drilling the hole in the DVD drive case I fixed the four M4 X 60 nut bolts at the four corners of the stepper motor mechanism.Now I placed the stepper motor mechanism in its place and secured all four bolts with M4 nuts.
@@ -67,7 +69,7 @@ After drilling the hole in the DVD drive case I fixed the four M4 X 60 nut bolts
 The CNC motor shield is mounted on an Arduino UNO.In this way assembly of Arduino CNC plotter machine is completed now we will see the wiring
 
 <p align="center">
-<img src="./Images/laser-cnc-plotter-1.JPG" alt="GESTURES" width=70% height=50%/>
+<img src="./Images/laser-cnc-plotter-12.JPG" alt="GESTURES" width=70% height=50%/>
 </p>
 
 </p>
