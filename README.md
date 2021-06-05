@@ -1,7 +1,7 @@
 
 # CNC Laser Plotter Machine
 
-## How to Smake Arduino mini CNC plotter machine
+
 
 <p align="justify">
 Hello friends, in this post we will see how to make a mini CNC plotter machine using an old scrap DVD drive, Arduino and CNC v3 shield.In fact in the past I have built some Arduino mini CNC plotter machines or drawing machines in the past.But those projects are not well documented and unclear so I got many request to make a detail in depth tutorial about how to make Arduino basic mini CNC plotter machine.So in this post l am going to cover all points like hardware assembly ,code for Arduino, G-code generation etc.So before moving further let me brief you about what is the CNC plotter machine is
